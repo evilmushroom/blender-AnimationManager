@@ -10,7 +10,6 @@ bl_info = {
     "description": "A tool for managing animations with features like action selection, NLA operations, batch renaming, and more.",
     "location": "3D View > Sidebar > Animation Tab",
     "doc_url": "https://github.com/evilmushroom/blender-AnimationManager",  
-    "support": "COMMUNITY",  
 }
 
 class ACTION_UL_list(bpy.types.UIList):

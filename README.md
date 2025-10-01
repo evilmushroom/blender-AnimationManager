@@ -20,3 +20,6 @@ Feel free to explore, use the add-on, suggest improvements, or contribute to its
 6. After installation, search for "Animation Manager" in the add-ons list and enable it by checking the box.
 7. The add-on will now be available in the `Animation` tab in the 3D View Sidebar.
 
+Tutorial:
+https://youtu.be/jF_uaO-fkqQ
+
